@@ -171,4 +171,4 @@ awards:
 ---
 ## About Me 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nima Safaei is an assistant professor of operations and business analytics at the Fisher College of Business at the Ohio State University. His research focuses on leveraging applied econometrics, machine learning, natural language processing, and network analytics to derive business intelligence for firms and policymakers. He addresses practical and data-driven challenges in technology innovation, environmental sustainability, and human resource management. To do so, he applies data-science tools to analyze unstructured and distributed data sources, such as news media, web, and patent data.
