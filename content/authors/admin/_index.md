@@ -39,14 +39,17 @@ profiles:
     icon_pack: hero
     link: "mailto:safaei.3@osu.edu"
     label: "E-mail Me"
-  - icon: x-twitter
-    icon_pack: fab
+
+  - icon: x-twitter-brands-solid-full
+    icon_pack: custom
     link: "https://x.com/nima3737"
-  - icon: linkedin
-    icon_pack: fab
+
+  - icon: linkedin-brands-solid-full
+    icon_pack: custom
     link: "https://www.linkedin.com/in/nima-safaei-4822b897/"
+
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: custom
     link: "https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en"
 
 
