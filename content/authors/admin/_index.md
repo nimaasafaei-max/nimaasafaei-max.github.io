@@ -35,21 +35,17 @@ organizations:
 
 # Social links (HugoBlox expects `link` + `icon_pack`)
 profiles:
-  - icon: at-symbol
-    icon_pack: hero
+  - icon: hero/at-symbol
     link: "mailto:safaei.3@osu.edu"
     label: "E-mail Me"
 
-  - icon: x
-    icon_pack: brands
+  - icon: brands/x
     link: "https://x.com/nima3737"
 
-  - icon: linkedin
-    icon_pack: brands
+  - icon: brands/linkedin
     link: "https://www.linkedin.com/in/nima-safaei-4822b897/"
 
-  - icon: google-scholar
-    icon_pack: academicons
+  - icon: academicons/google-scholar
     link: "https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en"
 
 
