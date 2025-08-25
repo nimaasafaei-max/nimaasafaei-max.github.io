@@ -36,14 +36,18 @@ organizations:
 # Social links (HugoBlox expects `link` + `icon_pack`)
 profiles:
   - icon: at-symbol
-  - url: "mailto:safaei.3@osu.edu"
-  - label: E-mail Me
-  - icon: brands/x
-  - url: https://x.com/nima3737 -
-  - icon: brands/linkedin
-  - url: https://www.linkedin.com/in/nima-safaei-4822b897/ 
-  - icon: academicons/google-scholar
-  - url: https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en
+    icon_pack: hero
+    link: "mailto:safaei.3@osu.edu"
+    label: E-mail Me
+  - icon: x-twitter
+    icon_pack: fab
+    link: "https://x.com/nima3737"
+  - icon: linkedin
+    icon_pack: fab
+    link: "https://www.linkedin.com/in/nima-safaei-4822b897/"
+  - icon: google-scholar
+    icon_pack: ai
+    link: "https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en"
 
 interests:
   - Artificial Intelligence in Supply Chains
