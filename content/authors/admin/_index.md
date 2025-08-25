@@ -61,28 +61,28 @@ interests:
 education:
   - area: PhD Information, Operations, Supply Chain, and Analytics
     institution: The University of Illinois Urbana-Champaign
-    date_start: "2021"
-    date_end: "2025"
+    date_start: "2021-08-01"
+    date_end: "2025-08-01"
     summary: |
       GPA: 3.9/4.0
       Thesis on _Green Ties and Media Eyes: The Role of Inter-firm Networks and Media Spotlight on Firm Innovation, Operations, and Financial Performance_.
       Supervised by [Prof Gautam Pant](https://sites.google.com/view/gautam-pant).
   - area: MA Business Analytics
     institution: The University of Iowa
-    date_start: "2019"
-    date_end: "2021"
+    date_start: "2019-08-01"
+    date_end: "2021-08-01"
     summary: |
       GPA: 4.1/4.0
   - area: MS Transportation Engineering
     institution: Iowa State University
-    date_start: "2017"
-    date_end: "2019"
+    date_start: "2017-08-01"
+    date_end: "2019-08-01"
     summary: |
       GPA: 4.0/4.0
   - area: BS Industrial Engineering
     institution: Amirkabir University of Technology
-    date_start: "2012"
-    date_end: "2017"
+    date_start: "2012-08-01"
+    date_end: "2017-08-01"
     summary: |
       GPA: 3.8/4.0
 
