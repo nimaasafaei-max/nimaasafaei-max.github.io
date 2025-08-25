@@ -3,7 +3,7 @@
 type: person
 
 # Display name
-title: ""
+title: Nima Safaei
 
 # Name pronunciation (optional)
 name_pronunciation: NEE-mah SAH-fah-ee
