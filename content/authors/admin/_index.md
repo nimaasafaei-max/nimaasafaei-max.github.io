@@ -3,14 +3,14 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: NEE-mah SAH-fah-ee
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nima
+last_name: Safaei
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:
@@ -23,92 +23,85 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Ohio State University
+    url: https://fisher.osu.edu/people/safaei.3
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:safaei.3@osu.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://x.com/nima3737
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/nima-safaei-4822b897/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence in Supply Chains
+  - Supply Chain Analytics
+  - Sustainable Operations Management
+  - Technology Innovation
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Information, Operations, Supply Chain, and Analytics
+    institution: The University of Illinois Urbana-Champaign
+    date_start: 2021
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.9/4.0
+      Thesis on _Green Ties and Media Eyes: The Role of Inter-firm Networks and Media Spotlight on Firm Innovation, Operations, and Financial Performance_
+_. Supervised by [Prof Gautam Pant](https://sites.google.com/view/gautam-pant). 
+  - area: MA Business Analytics
+    institution: The University of Iowa
+    date_start: 2019
+    date_end: 2021
+    summary: |
+      GPA: 4.1/4.0
+  - area: MS Transportation Engineering
+    institution: Iowa State University
+    date_start: 2017
+    date_end: 2019
+    summary: |
+      GPA: 4.0/4.0
+  - area: BS Industrial Engineering
+    institution: Amirkabir University of Technology
+    date_start: 2012
+    date_end: 2017
     summary: |
       GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Machine Learning Engineer Intern
+    company_name: TikTok
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-05
+    date_end: 2024-09
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of TikTok Shop missions on sellers.
+      - Developed Graph Neural Network-based algorithms to predict links between sellers and creators. Applied advanced
+structural econometrics to analyze knowledge flow within user networks.
+  - position: AI Science Intern
+    company_name: Cargill
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-09
+    date_end: 2024-04
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed computer vision algorithms to quantify product deliveries to Cargill export ports and forecast
+future deliveries for integration into inventory management optimization software.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -147,10 +140,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Persian
+    percent: 100
+  - name: Azarbaijani
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
