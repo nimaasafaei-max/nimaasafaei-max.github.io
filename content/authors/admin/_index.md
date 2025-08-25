@@ -15,6 +15,10 @@ last_name: Safaei
 # Pronouns (optional)
 pronouns: he/him
 
+image:
+  filename: "avatar-nima.jpg"
+  alt_text: "Nima Safaei"
+
 # Status emoji (quote to be safe)
 status:
   icon: "☕️"
