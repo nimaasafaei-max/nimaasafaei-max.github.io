@@ -38,7 +38,7 @@ profiles:
   - icon: at-symbol
     icon_pack: hero
     link: "mailto:safaei.3@osu.edu"
-    label: E-mail Me
+    label: "E-mail Me"
   - icon: x-twitter
     icon_pack: fab
     link: "https://x.com/nima3737"
@@ -48,6 +48,7 @@ profiles:
   - icon: google-scholar
     icon_pack: ai
     link: "https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en"
+
 
 interests:
   - Artificial Intelligence in Supply Chains
