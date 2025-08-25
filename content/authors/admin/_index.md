@@ -40,16 +40,16 @@ profiles:
     link: "mailto:safaei.3@osu.edu"
     label: "E-mail Me"
 
-  - icon: x          # must match x.svg
-    icon_pack: fab
+  - icon: x
+    icon_pack: brands
     link: "https://x.com/nima3737"
 
-  - icon: linkedin   # must match linkedin.svg
-    icon_pack: fab
+  - icon: linkedin
+    icon_pack: brands
     link: "https://www.linkedin.com/in/nima-safaei-4822b897/"
 
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: academicons
     link: "https://scholar.google.com/citations?user=uaWh0oIAAAAJ&hl=en"
 
 
