@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: NEE-mah SAH-fah-ee
@@ -89,9 +89,9 @@ work:
     date_end: 2024-09
     summary: |2-
       Responsibilities include:
-      - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of TikTok Shop missions on sellers.
+      - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of             TikTok Shop missions on sellers.
       - Developed Graph Neural Network-based algorithms to predict links between sellers and creators. Applied advanced
-structural econometrics to analyze knowledge flow within user networks.
+        structural econometrics to analyze knowledge flow within user networks.
   - position: AI Science Intern
     company_name: Cargill
     company_url: ''
