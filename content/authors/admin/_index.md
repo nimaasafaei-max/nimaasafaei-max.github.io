@@ -91,8 +91,8 @@ work:
     company_name: TikTok
     company_url: ""
     company_logo: ""
-    date_start: "2024-05"
-    date_end: "2024-09"
+    date_start: "2024-05-01"
+    date_end: "2024-09-01"
     summary: |2-
       Responsibilities include:
       - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of TikTok Shop missions on sellers.
@@ -102,8 +102,8 @@ work:
     company_name: Cargill
     company_url: ""
     company_logo: ""
-    date_start: "2023-09"
-    date_end: "2024-04"
+    date_start: "2023-09-01"
+    date_end: "2024-04-01"
     summary: |2-
       Responsibilities include:
       - Developed computer vision algorithms to quantify product deliveries to Cargill export ports and forecast
