@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ''
+title: ""
 
 # Name pronunciation (optional)
 name_pronunciation: NEE-mah SAH-fah-ee
@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:safaei.3@osu.edu'
+    url: "mailto:safaei.3@osu.edu"
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/nima3737
@@ -54,54 +54,53 @@ interests:
 education:
   - area: PhD Information, Operations, Supply Chain, and Analytics
     institution: The University of Illinois Urbana-Champaign
-    date_start: 2021
-    date_end: 2025
+    date_start: "2021"
+    date_end: "2025"
     summary: |
       GPA: 3.9/4.0
-      Thesis on _Green Ties and Media Eyes: The Role of Inter-firm Networks and Media Spotlight on Firm Innovation, Operations, and Financial Performance_
-_. Supervised by [Prof Gautam Pant](https://sites.google.com/view/gautam-pant). 
+      Thesis on _Green Ties and Media Eyes: The Role of Inter-firm Networks and Media Spotlight on Firm Innovation, Operations, and Financial Performance_.
+      Supervised by [Prof Gautam Pant](https://sites.google.com/view/gautam-pant).
   - area: MA Business Analytics
     institution: The University of Iowa
-    date_start: 2019
-    date_end: 2021
+    date_start: "2019"
+    date_end: "2021"
     summary: |
       GPA: 4.1/4.0
   - area: MS Transportation Engineering
     institution: Iowa State University
-    date_start: 2017
-    date_end: 2019
+    date_start: "2017"
+    date_end: "2019"
     summary: |
       GPA: 4.0/4.0
   - area: BS Industrial Engineering
     institution: Amirkabir University of Technology
-    date_start: 2012
-    date_end: 2017
+    date_start: "2012"
+    date_end: "2017"
     summary: |
       GPA: 3.8/4.0
-      
 
 work:
   - position: Machine Learning Engineer Intern
     company_name: TikTok
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-05
-    date_end: 2024-09
+    company_url: ""
+    company_logo: ""
+    date_start: "2024-05"
+    date_end: "2024-09"
     summary: |2-
       Responsibilities include:
-      - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of             TikTok Shop missions on sellers.
+      - Conducted research on causal machine learning, creating algorithms to estimate the heterogeneous treatment effects of TikTok Shop missions on sellers.
       - Developed Graph Neural Network-based algorithms to predict links between sellers and creators. Applied advanced
         structural econometrics to analyze knowledge flow within user networks.
   - position: AI Science Intern
     company_name: Cargill
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09
-    date_end: 2024-04
-    summary: |
+    company_url: ""
+    company_logo: ""
+    date_start: "2023-09"
+    date_end: "2024-04"
+    summary: |2-
       Responsibilities include:
       - Developed computer vision algorithms to quantify product deliveries to Cargill export ports and forecast
-future deliveries for integration into inventory management optimization software.
+        future deliveries for integration into inventory management optimization software.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -109,31 +108,31 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: ""
         percent: 80
         icon: code-bracket
       - name: Data Science
-        description: ''
+        description: ""
         percent: 100
         icon: chart-bar
       - name: SQL
-        description: ''
+        description: ""
         percent: 40
         icon: circle-stack
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: "#eeac02"
+    color_border: "#f0bf23"
     items:
       - name: Hiking
-        description: ''
+        description: ""
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: ''
+        description: ""
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: ""
         percent: 80
         icon: camera
 
