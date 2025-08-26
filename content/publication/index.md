@@ -1,3 +1,17 @@
+---
+title: "Publications"
+type: page
+slug: publications
+url: /publications/
+aliases: [/publication/, /publication/journal-article/]  # optional redirects
+
+menu:
+  main:
+    name: Publications
+    weight: 30
+---
+
+
 ## Working papers
 
 - **Safaei, N.**, & Pant, G. (2024). No News about Climate Action Is Good News for the Low-polluting Firm. *Production and Operations Management*. (R&R; resubmission planned Oct 2024). [Link](#)
