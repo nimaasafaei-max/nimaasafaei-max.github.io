@@ -52,7 +52,7 @@ sections:
       columns: 2
 
   - block: markdown
-    id: pubs
+    id: recent-publications
     content:
       title: "Recent Publications"
       text: |-
