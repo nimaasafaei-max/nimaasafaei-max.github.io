@@ -39,11 +39,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research develops data-driven frameworks at the intersection of innovation, corporate environmental sustainability, and organizational performance. I combine econometrics, machine learning, natural language processing, and network analytics to study how firms communicate, innovate, and respond to societal pressures such as climate change. Much of my work leverages unstructured and distributed data sources, including news, social media, and patents, to uncover insights that traditional datasets often miss. By applying causal inference and computational methods, I aim to advance academic knowledge while providing actionable intelligence for managers and policymakers.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
