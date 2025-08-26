@@ -180,4 +180,4 @@ awards:
 ---
 ## About Me 
 
-Nima Safaei is an assistant professor of operations and business analytics at the Fisher College of Business at the Ohio State University. His research focuses on leveraging applied econometrics, machine learning, natural language processing, and network analytics to derive business intelligence for firms and policymakers. He addresses practical and data-driven challenges in technology innovation, environmental sustainability, and human resource management. To do so, he applies data-science tools to analyze unstructured and distributed data sources, such as news media, web, and patent data.
+Nima Safaei is an Assistant Professor of Operations and Business Analytics at Fisher College of Business, The Ohio State University. His work examines how artificial intelligence and other data-driven technologies inform decision-making in supply chain operations and business strategy.
