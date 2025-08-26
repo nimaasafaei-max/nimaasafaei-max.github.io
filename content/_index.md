@@ -55,6 +55,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: pubs
     content:
       title: Recent Publications
       text: ""
