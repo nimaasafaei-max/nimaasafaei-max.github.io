@@ -55,7 +55,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-   content:
+    content:
     title: Recent Publications
     filters:
       folders:
@@ -65,7 +65,7 @@ sections:
     cta:
       label: "View all publications →"
       url: "/publications/"
-  design:
+   design:
     view: citation
   - block: collection
     id: talks
