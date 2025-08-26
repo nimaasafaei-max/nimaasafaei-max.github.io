@@ -55,16 +55,18 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
-    id: pubs
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  content:
+    title: Recent Publications
+    filters:
+      folders:
+        - publication
+    exclude_featured: false
+    count: 5
+    cta:
+      label: "View all publications →"
+      url: "/publications/"
+  design:
+    view: citation
   - block: collection
     id: talks
     content:
