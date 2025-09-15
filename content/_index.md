@@ -40,9 +40,9 @@ sections:
       columns: "1"
 
   - block: markdown
-    id: recent-publications
+    id: Research
     content:
-      title: "Recent Publications"
+      title: "Research"
       text: |-
         ## Working papers
 
