@@ -40,7 +40,7 @@ sections:
       columns: "1"
 
   - block: markdown
-    id: Research
+    id: research
     content:
       title: "Research"
       text: |-
