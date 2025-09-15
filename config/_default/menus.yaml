@@ -10,8 +10,8 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-  - name: Recent Publications
-    url: /#recent-publications
+  - name: Research
+    url: /#research
     weight: 12
   - name: Experience
     url: experience/
