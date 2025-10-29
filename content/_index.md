@@ -44,9 +44,9 @@ sections:
     content:
       title: "Research"
       text: |-
-        ## Working papers
+        ## Publications 
 
-        - **Safaei, N.**, & Pant, G. (2024). No News about Climate Action Is Good News for the Low-polluting Firm. *Production and Operations Management*. (R&R; resubmission planned Oct 2024). [Link](#)
+        - **Safaei, N.**, & Pant, G. (2024). Safaei, N., & Pant, G. (2025). No News About Climate Action is Good News for Low-Polluting Firms. Production and Operations Management, 0(0). https://doi.org/10.1177/10591478251387803. [Link](https://journals.sagepub.com/doi/full/10.1177/10591478251387803)
 
         - **Safaei, N.**, Pant, G., Namdar, J., & Pant, S. (2024). The Green Ripple Effect: Unraveling Green Innovation Diffusion in Supply Chain Networks. Working paper. [Link](#)
 
@@ -54,7 +54,7 @@ sections:
 
         - Wu, A., Subramanyam, R., Ahsen, E. M., Pant, G., & **Safaei, N.** (2025). Communicate for Green or Greenwashing? Evidence from Social Media Platforms. Work in progress. [Link](#)
 
-        ## Journal articles
+        ## Journal articles (Practitioner-oriented)
 
         - Khaki, S., **Safaei, N.**, Pham, H., & Wang, L. (2022). WheatNet: A lightweight convolutional neural network for high-throughput image-based wheat head detection and counting. *Neurocomputing, 489*, 78–89. [Link](#)
 
