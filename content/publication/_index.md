@@ -5,10 +5,10 @@ slug: publications
 url: /publications/
 aliases: [/publication/, /publication/journal-article/]  # optional redirects
 
-menu:
-  main:
-    name: Publications
-    weight: 30
+#menu:
+#  main:
+#    name: Publications
+#    weight: 30
 ---
 
 
