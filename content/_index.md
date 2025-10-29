@@ -44,7 +44,7 @@ sections:
     content:
       title: "Research"
       text: |-
-        #### Publications 
+        ### Publications 
 
         - **Safaei, N.**, & Pant, G. (2024). Safaei, N., & Pant, G. (2025). No News About Climate Action is Good News for Low-Polluting Firms. Production and Operations Management, 0(0). https://doi.org/10.1177/10591478251387803. [Link](https://journals.sagepub.com/doi/full/10.1177/10591478251387803)
 
@@ -54,23 +54,24 @@ sections:
 
         - **Safaei, N.**, Namdar, J., & Pant, G. (Ongoing). A Theory-Driven Graph Neural Network System for Greenwashing Detection. Working paper. [Link](#)
 
-        ## Journal articles (Practitioner-oriented)
+        ### Journal articles (Practice-oriented)
 
-        - Khaki, S., **Safaei, N.**, Pham, H., & Wang, L. (2022). WheatNet: A lightweight convolutional neural network for high-throughput image-based wheat head detection and counting. *Neurocomputing, 489*, 78–89. [Link](#)
+        - Khaki, S., **Safaei, N.**, Pham, H., & Wang, L. (2022). WheatNet: A lightweight convolutional neural network for high-throughput image-based wheat head detection and counting. *Neurocomputing, 489*, 78–89. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231222002843)
 
-        - Srivastava, A. K., **Safaei, N.**, Khaki, S., Lopez, G., Zeng, W., Ewert, F., Rahimi, J., *et al.* (2021). Winter wheat yield prediction using convolutional neural networks from environmental and phenological data. *Scientific Reports, 12*(1), 3215. [Link](#)
+        - Srivastava, A. K., **Safaei, N.**, Khaki, S., Lopez, G., Zeng, W., Ewert, F., Rahimi, J., *et al.* (2021). Winter wheat yield prediction using convolutional neural networks from environmental and phenological data. *Scientific Reports, 12*(1), 3215. [Link](https://www.nature.com/articles/s41598-022-06249-w)
 
-        - **Safaei, N.**, Safaei, B., Seyedekrami, S., Talafidaryani, M., Masoud, A., Wang, S., Moqri, M., *et al.* (2022). E-CatBoost: An efficient machine learning framework for predicting ICU mortality using the eICU Collaborative Research Database. *PLOS ONE, 17*(5), e0262895. [Link](#)
+        - **Safaei, N.**, Safaei, B., Seyedekrami, S., Talafidaryani, M., Masoud, A., Wang, S., Moqri, M., *et al.* (2022). E-CatBoost: An efficient machine learning framework for predicting ICU mortality using the eICU Collaborative Research Database. *PLOS ONE, 17*(5), e0262895. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262895)
 
-        - Khaki, S., Pham, H., Khalilzadeh, Z., Masoud, A., **Safaei, N.**, Han, Y., ... & Wang, L. (2022). High-throughput image-based plant stand count estimation using convolutional neural networks. Plos one, 17(7), e0268762.
+        - Khaki, S., Pham, H., Khalilzadeh, Z., Masoud, A., **Safaei, N.**, Han, Y., ... & Wang, L. (2022). High-throughput image-based plant stand count estimation using convolutional neural networks. Plos one, 17(7), e0268762. [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268762)
 
-        - **Safaei, N.**, Smadi, O., Masoud, A., & Safaei, B. (2022). An automatic image processing algorithm based on crack pixel density for pavement crack detection and classification. International Journal of Pavement Research and Technology, 15(1), 159-172.
+        - **Safaei, N.**, Smadi, O., Masoud, A., & Safaei, B. (2022). An automatic image processing algorithm based on crack pixel density for pavement crack detection and classification. International Journal of Pavement Research and Technology, 15(1), 159-172. [Link](https://link.springer.com/article/10.1007/s42947-021-00006-4)
 
-        - **Safaei, N.**, Smadi, O., Safaei, B., & Masoud, A. (2021). Efficient road crack detection based on an adaptive pixel-level segmentation algorithm. Transportation Research Record, 2675(9), 370-381.
+        - **Safaei, N.**, Smadi, O., Safaei, B., & Masoud, A. (2021). Efficient road crack detection based on an adaptive pixel-level segmentation algorithm. Transportation Research Record, 2675(9), 370-381. [Link](https://journals.sagepub.com/doi/abs/10.1177/03611981211002203)
 
-        - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053.
+        - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053. [Link](https://www.sciencedirect.com/journal/transportation-engineering)
+        - Safaei, B., Safaei, N., Masoud, A., & Seyedekrami, S. (2021). Weighing criteria and prioritizing strategies to reduce motorcycle-related injuries using combination of fuzzy TOPSIS and AHP methods. Stud, 54, 217-234. [Link]([https://www.sciencedirect.com/journal/transportation-engineering](https://www.atsinternationaljournal.com/2021-issues/weighing-criteria-and-prioritizing-strategies-to-reduce-motorcycle-related-injuries-using-combination-of-fuzzy-topsis-and-ahp-methods/))
 
-        ## Conference proceedings
+        ### Conference proceedings
 
         - Rajabalizadeh, A., Norouzi Nia, J., **Safaei, N.**, Talafidaryani, M., Bijari, R., Zarindast, A., Moqri, M., *et al.* (2020). An exploratory analysis of Electronic Intensive Care Unit (eICU) Collaborative Research Database. In *Proceedings of the International Conference on Information Systems (ICIS)*. [Link](#)
 
