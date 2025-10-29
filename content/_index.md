@@ -48,11 +48,11 @@ sections:
 
         - **Safaei, N.**, & Pant, G. (2024). Safaei, N., & Pant, G. (2025). No News About Climate Action is Good News for Low-Polluting Firms. Production and Operations Management, 0(0). https://doi.org/10.1177/10591478251387803. [Link](https://journals.sagepub.com/doi/full/10.1177/10591478251387803)
 
-        - **Safaei, N.**, Pant, G., Namdar, J., & Pant, S. (2024). The Green Ripple Effect: Unraveling Green Innovation Diffusion in Supply Chain Networks. Working paper. [Link](#)
+        - **Safaei, N.**, Pant, G., Namdar, J., & Pant, S. (Ongoing). The Green Ripple Effect: Unraveling Green Innovation Spillover in Supply Chain Networks. Working paper. [Link](#)
 
-        - **Safaei, N.**, Yoon, J., & Pant, G. (2024). Green Networks: How Corporate Alliances and Competitor Links Shape Future Green Job Investments. Working paper. [Link](#)
+        - Namdar, J., Liu, Y., **Safaei, N.**, & Modi, S. (Ongoing). Beyond Headcount: Embedding AI in Supply Chain and Operations Knowledge to Move the Productivity Needle. Working paper. [Link](#)
 
-        - Wu, A., Subramanyam, R., Ahsen, E. M., Pant, G., & **Safaei, N.** (2025). Communicate for Green or Greenwashing? Evidence from Social Media Platforms. Work in progress. [Link](#)
+        - **Safaei, N.**, Namdar, J., & Pant, G. (Ongoing). A Theory-Driven Graph Neural Network System for Greenwashing Detection. Working paper. [Link](#)
 
         ## Journal articles (Practitioner-oriented)
 
@@ -61,6 +61,14 @@ sections:
         - Srivastava, A. K., **Safaei, N.**, Khaki, S., Lopez, G., Zeng, W., Ewert, F., Rahimi, J., *et al.* (2021). Winter wheat yield prediction using convolutional neural networks from environmental and phenological data. *Scientific Reports, 12*(1), 3215. [Link](#)
 
         - **Safaei, N.**, Safaei, B., Seyedekrami, S., Talafidaryani, M., Masoud, A., Wang, S., Moqri, M., *et al.* (2022). E-CatBoost: An efficient machine learning framework for predicting ICU mortality using the eICU Collaborative Research Database. *PLOS ONE, 17*(5), e0262895. [Link](#)
+
+        - Khaki, S., Pham, H., Khalilzadeh, Z., Masoud, A., **Safaei, N.**, Han, Y., ... & Wang, L. (2022). High-throughput image-based plant stand count estimation using convolutional neural networks. Plos one, 17(7), e0268762.
+
+        - **Safaei, N.**, Smadi, O., Masoud, A., & Safaei, B. (2022). An automatic image processing algorithm based on crack pixel density for pavement crack detection and classification. International Journal of Pavement Research and Technology, 15(1), 159-172.
+
+        - **Safaei, N.**, Smadi, O., Safaei, B., & Masoud, A. (2021). Efficient road crack detection based on an adaptive pixel-level segmentation algorithm. Transportation Research Record, 2675(9), 370-381.
+
+        - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053.
 
         ## Conference proceedings
 
