@@ -4,8 +4,9 @@ title: ""
 date: 2022-10-24
 type: landing
 
+# Reduce global section spacing (was 6rem)
 design:
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -17,9 +18,10 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
+      spacing: "2rem"        # tighter than global
       avatar:
-        size: medium    # small | medium | large | xl | xxl
-        shape: circle   # circle | square | rounded
+        size: medium
+        shape: circle
       background:
         color: black
         image:
@@ -38,6 +40,8 @@ sections:
         My research develops data-driven frameworks at the intersection of innovation, corporate environmental sustainability, and organizational performance. I combine econometrics, machine learning, natural language processing, and network analytics to study how firms communicate, innovate, and respond to societal pressures such as climate change. Much of my work leverages unstructured and distributed data sources, including news, social media, and patents, to uncover insights that traditional datasets often miss. By applying causal inference and computational methods, I aim to advance academic knowledge while providing actionable intelligence for managers and policymakers.
     design:
       columns: "1"
+      spacing: "2rem"        # tighter
+      css_class: "tight-section"
 
   - block: markdown
     id: research
@@ -70,16 +74,10 @@ sections:
 
         - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053. [Link](https://www.sciencedirect.com/science/article/pii/S2666691X21000099)
         - Safaei, B., **Safaei, N.**, Masoud, A., & Seyedekrami, S. (2021). Weighing criteria and prioritizing strategies to reduce motorcycle-related injuries using combination of fuzzy TOPSIS and AHP methods. Stud, 54, 217-234. [Link](https://www.atsinternationaljournal.com/2021-issues/weighing-criteria-and-prioritizing-strategies-to-reduce-motorcycle-related-injuries-using-combination-of-fuzzy-topsis-and-ahp-methods/)
-
-        ### Conference proceedings
-
-        - Rajabalizadeh, A., Norouzi Nia, J., **Safaei, N.**, Talafidaryani, M., Bijari, R., Zarindast, A., Moqri, M., *et al.* (2020). An exploratory analysis of Electronic Intensive Care Unit (eICU) Collaborative Research Database. In *Proceedings of the International Conference on Information Systems (ICIS)*. [Link](#)
-
-        - Rajabalizadeh, A., Wang, S., Javadi, M., **Safaei, N.**, Talafidaryani, M., Li, Q., Moqri, M., *et al.* (2020). In-depth evaluation of APACHE scoring system using eICU database. In *Proceedings of the International Conference on Information Systems (ICIS)*. [Link](#)
-
-        - Safaei, B., Yuan, Y., & **Safaei, N.** (2024). Empowering organizations through big data: A framework for digital resilience. In *Proceedings of the Americas Conference on Information Systems (AMCIS)*. [Link](#)
     design:
       columns: "1"
+      spacing: "1.5rem"       # tightest section
+      css_class: "tight-section"
 
   - block: collection
     id: talks
@@ -91,6 +89,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      spacing: "2rem"
 
   - block: cta-card
     demo: false
@@ -106,4 +105,5 @@ sections:
       card:
         css_class: "bg-primary-700"
         css_style: ""
+      spacing: "2rem"
 ---
