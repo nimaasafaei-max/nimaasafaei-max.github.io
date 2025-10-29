@@ -68,8 +68,8 @@ sections:
 
         - **Safaei, N.**, Smadi, O., Safaei, B., & Masoud, A. (2021). Efficient road crack detection based on an adaptive pixel-level segmentation algorithm. Transportation Research Record, 2675(9), 370-381. [Link](https://journals.sagepub.com/doi/abs/10.1177/03611981211002203)
 
-        - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053. [Link](https://www.sciencedirect.com/journal/transportation-engineering)
-        - Safaei, B., Safaei, N., Masoud, A., & Seyedekrami, S. (2021). Weighing criteria and prioritizing strategies to reduce motorcycle-related injuries using combination of fuzzy TOPSIS and AHP methods. Stud, 54, 217-234. [Link]([https://www.sciencedirect.com/journal/transportation-engineering](https://www.atsinternationaljournal.com/2021-issues/weighing-criteria-and-prioritizing-strategies-to-reduce-motorcycle-related-injuries-using-combination-of-fuzzy-topsis-and-ahp-methods/))
+        - **Safaei, N.**, Zhou, C., Safaei, B., & Masoud, A. (2021). Gasoline prices and their relationship to the number of fatal crashes on US roads. Transportation Engineering, 4, 100053. [Link](https://www.sciencedirect.com/science/article/pii/S2666691X21000099)
+        - Safaei, B., Safaei, N., Masoud, A., & Seyedekrami, S. (2021). Weighing criteria and prioritizing strategies to reduce motorcycle-related injuries using combination of fuzzy TOPSIS and AHP methods. Stud, 54, 217-234. [Link](https://www.atsinternationaljournal.com/2021-issues/weighing-criteria-and-prioritizing-strategies-to-reduce-motorcycle-related-injuries-using-combination-of-fuzzy-topsis-and-ahp-methods/)
 
         ### Conference proceedings
 
