@@ -44,7 +44,7 @@ sections:
     content:
       title: "Research"
       text: |-
-        ## Publications 
+        #### Publications 
 
         - **Safaei, N.**, & Pant, G. (2024). Safaei, N., & Pant, G. (2025). No News About Climate Action is Good News for Low-Polluting Firms. Production and Operations Management, 0(0). https://doi.org/10.1177/10591478251387803. [Link](https://journals.sagepub.com/doi/full/10.1177/10591478251387803)
 
